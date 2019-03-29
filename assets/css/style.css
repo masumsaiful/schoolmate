@@ -4,8 +4,10 @@ body {
     font-family: 'Open Sans', sans-serif;
     background: black; !important;
     color: white;
-    position: relative;
-    background-image: url(../image/signin%20image.jpg);
+    
+    
+}
+#signinup img{
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -21,7 +23,7 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,14%);
+    transform: translate(-50%,-50%);
     padding: 40px 80px;
     border-radius: 5px;
     width: 500px;
